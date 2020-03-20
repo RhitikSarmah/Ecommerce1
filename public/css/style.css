@@ -1,0 +1,13 @@
+.bg-tomato{
+    background-color: tomato;
+}
+.navbar-brand,.nav-link{
+    color: white!important;
+}
+.card{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.shop{
+    margin-top: 40px;
+}
